@@ -1,5 +1,5 @@
 ## Installation
-npm install file-listener
+npm install connected
 
 ## Usage
 Connected allows to check if elements in different subsets are connected or not. Elements can represnt any object like friends in a social network or cities in a map. For example, if 1 and 2 are connected and 5 and 6 are connected and if 1 and 5 are connected, then all the elements are connected. It employs weighted union with path compression technique.
