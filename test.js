@@ -1,4 +1,4 @@
-var Connected = require('./index.js');
+var Connected = require('findconnect');
 
 var connected = new Connected(5);
 

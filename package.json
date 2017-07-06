@@ -1,5 +1,5 @@
 {
-  "name": "Connected",
+  "name": "findconnect",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,6 +8,8 @@
   },
   "keywords": [
     "connected",
+    "network",
+    "union find",
     "network"
   ],
   "author": "gauravp16",
