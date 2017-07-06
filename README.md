@@ -8,7 +8,7 @@ Connected allows to check if elements in different subsets are connected or not.
 
 The first step is to create a connected object.
 ```javascript
-var Connected = require('./index.js');
+var Connected = require('findconnect');
 
 var connected = new Connected(5);
 
